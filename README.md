@@ -1,1 +1,0 @@
-# Pirmas_projektas_Python
